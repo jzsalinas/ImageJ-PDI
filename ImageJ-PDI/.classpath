@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/ij-1.53t.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
